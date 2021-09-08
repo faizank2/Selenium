@@ -1,0 +1,8 @@
+
+k
+java:S1450"URemove the "extent" field and declare it as a local variable in the relevant methods.(¹çÃæ
+b
+java:S1871"LThis branch's code block is the same as the block for the branch on line 26.(å¥‡
+{
+java:S14882"`Immediately return this expression instead of assigning it to the temporary variable "fileName".(ˆ‘¼¬ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰Ä»

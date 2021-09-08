@@ -1,0 +1,62 @@
+
+o	java:S116"URename this field "int_random" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¾ãáÿÿÿÿÿ
+l	java:S116"RRename this field "BR_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍüŠ³şÿÿÿÿ
+h	java:S116"SRename this field "BR_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¯ĞÜ
+k	java:S116"QRename this field "BR_CIF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÒŒˆûÿÿÿÿ
+l	java:S116"WRename this field "BR_REFFERING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾å‰’
+q	java:S116"WRename this field "BR_AccountNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ç¢şúÿÿÿÿ
+n	java:S116"YRename this field "BR_IdTypeValue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»³ãÒ
+s	java:S116"YRename this field "BR_FamilyAssoc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä˜íÚşÿÿÿÿ
+q	java:S116>"WRename this field "menu_obligor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô·¹ıÿÿÿÿ
+k	java:S116B"VRename this field "obligor_add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢’ÿ¢
+s	java:S116F"YRename this field "obligor_brCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØôèÁûÿÿÿÿ
+u	java:S116J"[Rename this field "obligor_addtitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÙËõøÿÿÿÿ
+	java:S116N"gRename this field "obligor_addExisitingCustomer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÚ’¬úÿÿÿÿ
+‚	java:S116S"mRename this field "obligor_addExisitingCustomerSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹£ÍÆ
+q	java:S116W"\Rename this field "obligor_cifSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÓ¦Ò
+o	java:S116["URename this field "obligor_iU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÔØ¿şÿÿÿÿ
+o	java:S116_"[Rename this field "obligor_iUSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ğ«W
+m	java:S116c"YRename this field "obligor_branch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿº~
+y	java:S116g"_Rename this field "obligor_branchSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¯ğºÿÿÿÿÿ
+s	java:S116k"_Rename this field "obligor_obligorGroup" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ëÃ_
+y	java:S116o"eRename this field "obligor_obligorGroupSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÉ©
+y	java:S116t"_Rename this field "obligor_customerType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õòÙõûÿÿÿÿ
+	java:S116x"eRename this field "obligor_customerTypeSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Şú±ùÿÿÿÿ
+s	java:S116|"^Rename this field "obligor_legalStatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÙ
+	java:S116€"dRename this field "obligor_legalStatusSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İéÍÿÿÿÿÿ
+~	java:S116„"cRename this field "obligor_referringOfficer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áèıªúÿÿÿÿ
+r	java:S116ˆ"\Rename this field "obligor_accountNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õª¼
+x	java:S116Œ"bRename this field "obligor_accountStartegy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß²¹ì
+ƒ	java:S116"hRename this field "obligor_accountStartegySelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‚ÌÎûÿÿÿÿ
+o	java:S116”"YRename this field "obligor_idType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÌ¤Ë
+z	java:S116˜"_Rename this field "obligor_idTypeSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Íóœøÿÿÿÿ
+t	java:S116œ"^Rename this field "obligor_idTypeValue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·µ±í
+z	java:S116 "dRename this field "obligor_familyAssociation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‡“Õ
+r	java:S116¤"WRename this field "obligor_save" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó×ˆÔşÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ÍüŠ³şÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(ä¯ĞÜ
+<
+java:S1170"!Make this final field static too.(®ÒŒˆûÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(¾å‰’
+<
+java:S1170"!Make this final field static too.(‚Ç¢şúÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(»³ãÒ
+<
+java:S1170"!Make this final field static too.(Ä˜íÚşÿÿÿÿ
+h	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ï£Êùÿÿÿÿ
+h	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—œùÿÿÿÿ
+c	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Õ¢
+c	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡œ½ò
+h	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ìàüÿÿÿÿ
+h	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÌèÒûÿÿÿÿ
+h	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦°§ùÿÿÿÿ
+O	java:S106æ"9Replace this use of System.out or System.err by a logger.(ÙÒŸ§
+I
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›
+]
+java:S1128"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÇ¼ıÿÿÿÿ

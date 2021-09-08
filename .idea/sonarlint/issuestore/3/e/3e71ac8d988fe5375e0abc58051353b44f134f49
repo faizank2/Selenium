@@ -1,0 +1,41 @@
+
+{	java:S116"aRename this field "obligor_Classification" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºßù†şÿÿÿÿ
+}	java:S116"cRename this field "classification_Employees" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÔ‹øÿÿÿÿ
+v	java:S116"aRename this field "classification_NetSale" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚºÄÃ
+|	java:S116""gRename this field "classification_ObligorEquity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿµ…ı
+t	java:S116&"_Rename this field "classification_StrDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æâÎ³
+z	java:S116*"eRename this field "classification_StrDdSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼êÊ
+	java:S116."eRename this field "classification_StrDdUpload" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹øù–úÿÿÿÿ
+„	java:S1162"jRename this field "classification_MarketPositionDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªœğ±ùÿÿÿÿ
+Š	java:S1166"pRename this field "classification_MarketPositionDdSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¯†ºøÿÿÿÿ
+ƒ	java:S116:"nRename this field "classification_MarketPositionUpload" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙûª
+~	java:S116>"dRename this field "classification_SafeNameDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ô©“ıÿÿÿÿ
+„	java:S116B"jRename this field "classification_SafeNameDdSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ§á¼şÿÿÿÿ
+}	java:S116F"hRename this field "classification_SafeNameUpload" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤»Å
+~	java:S116J"iRename this field "classification_AduitedAmountDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê–§
+„	java:S116N"oRename this field "classification_AduitedAmountDdSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’æš£
+	java:S116R"mRename this field "classification_AduitedAmountUpload" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÓşL
+…	java:S116Y"pRename this field "classification_RegulatoryIndustryIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®âè
+Œ	java:S116]"rRename this field "classification_RegulatoryIndustrySelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßõÄşÿÿÿÿ
+z	java:S116a"eRename this field "classification_CountryIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÎÙ˜
+|	java:S116e"gRename this field "classification_CountrySelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¾û†
+ƒ	java:S116i"iRename this field "classification_BaselCategoryDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÁşÕşÿÿÿÿ
+‡	java:S116m"mRename this field "classification_BaselCategorySelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»âªáÿÿÿÿÿ
+„	java:S116q"jRename this field "classification_ObjectiveClassDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖüŸêøÿÿÿÿ
+ˆ	java:S116u"nRename this field "classification_ObjectiveClassSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÁËæÿÿÿÿÿ
+	java:S116y"kRename this field "classification_SubjectiveClassDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µë¶a
+„	java:S116}"oRename this field "classification_SubjectiveClassSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äé¾×
+„	java:S116ƒ"iRename this field "classification_InternalIndusDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ùå‰ùÿÿÿÿ
+ƒ	java:S116‡"mRename this field "classification_InternalIndusSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ïÖ»
+ˆ	java:S116‹"mRename this field "classification_BusinessProfileText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁĞá¬ıÿÿÿÿ
+…	java:S116"oRename this field "classification_BusinessProfileUpload" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥˜÷É
+y	java:S116”"^Rename this field "classification_Save" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ´ó„ùÿÿÿÿ
+q
+java:S3008"VRename this field "NoEmployees" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ó”üÿÿÿÿ
+h
+java:S3008"RRename this field "NetSale" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÕ¯Ş
+s
+java:S3008"XRename this field "ObligorEquity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›·Şşÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÇ¼ıÿÿÿÿ

@@ -1,0 +1,25 @@
+
+B
+java:S5164 " Call "remove()" on "extentTest".(Ö«Éøùÿÿÿÿ8‹Şù­¼/
+{
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö«Éøùÿÿÿÿ8Şù­¼/
+e
+java:S53615"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ş›èƒ8–Şù­¼/
+e
+java:S53617"HReplace this call to "replaceAll()" by a call to the "replace()" method.(„ôÊÙ8–Şù­¼/
+R
+java:S22098"5Change this instance-reference to a static reference.(³Û¥´8—Şù­¼/
+e
+java:S5361L"HReplace this call to "replaceAll()" by a call to the "replace()" method.(„ôÊÙ8™Şù­¼/
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(¸©»8›Şù­¼/
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(Ã©ñ¬8¬Şù­¼/
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(í–İÈ8±Şù­¼/
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(€á¨â8±Şù­¼/
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(í–İÈ8±Şù­¼/
+s
+java:S11925"VDefine a constant instead of duplicating this literal "</font></b></summary>" 3 times.(Ş›èƒ8³Şù­¼/
+m
+java:S1192*"PDefine a constant instead of duplicating this literal "<b>Test Method " 3 times.(ëÖöÄ8³Şù­¼/
+}
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "fileName".(Ô®Éé8´Şù­¼/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í‚é×8·Şù­¼/

@@ -1,0 +1,5 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬†•
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ÁèÌıûÿÿÿÿ8º¯ÜÚº/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î‹ü²

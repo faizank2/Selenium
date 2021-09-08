@@ -1,0 +1,51 @@
+
+|	java:S116"bRename this field "obligor_FundingWithBank" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒîÅúÿÿÿÿ
+|	java:S116"bRename this field "FundingWithBank_AddIcon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÉÈšøÿÿÿÿ
+v	java:S116"aRename this field "FundingWithBank_BankDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¿Ï‘
+z	java:S116 "eRename this field "FundingWithBank_BankSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ‚œ‰
+ˆ	java:S116%"nRename this field "FundingWithBank_WorkingCapitalLimit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈãŠæÿÿÿÿÿ
+‰	java:S116)"oRename this field "FundingWithBank_WorkingCapitalFunded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÍªøÿÿÿÿ
+‚	java:S116."hRename this field "FundingWithBank_LongTermLimit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İâÔùÿÿÿÿ
+ƒ	java:S1162"iRename this field "FundingWithBank_LongTermFunded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ëø§üÿÿÿÿ
+ƒ	java:S1166"iRename this field "FundingWithBank_NonFundedLimit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÁÄÙùÿÿÿÿ
+€	java:S116:"fRename this field "FundingWithBank_NonFundedOs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ³€Ğüÿÿÿÿ
+	java:S116>"eRename this field "FundingWithBank_TotalLimit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÁÔùÿÿÿÿ
+|	java:S116B"bRename this field "FundingWithBank_TotalOs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ğ¹Àúÿÿÿÿ
+‚	java:S116F"hRename this field "FundingWithBank_OverDueAmount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ°à®üÿÿÿÿ
+€	java:S116J"fRename this field "FundingWithBank_OverDueDays" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è½­•ùÿÿÿÿ
+|	java:S116N"gRename this field "FundingWithBank_PgProvidedDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô«‰Ö
+	java:S116R"kRename this field "FundingWithBank_PgProvidedSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¿¾s
+ƒ	java:S116V"iRename this field "FundingWithBank_TypeOfChargeDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—±´şıÿÿÿÿ
+‚	java:S116Z"mRename this field "FundingWithBank_TypeOfChargeSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¿º
+ƒ	java:S116^"iRename this field "FundingWithBank_AmountOfCharge" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ñ„Ôøÿÿÿÿ
+†	java:S116b"lRename this field "FundingWithBank_RankingOfChargeDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àî×¨ıÿÿÿÿ
+…	java:S116f"pRename this field "FundingWithBank_RankingOfChargeSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯²µ
+{	java:S116j"aRename this field "FundingWithBank_Margin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÓÊûÿÿÿÿ
+‚	java:S116n"hRename this field "FundingWithBank_SyndicateLoan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å£›ºûÿÿÿÿ
+x	java:S116r"cRename this field "FundingWithBank_Facility" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥”Æ»
+}	java:S116v"cRename this field "FundingWithBank_Security" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ£ĞÙşÿÿÿÿ
+†	java:S116z"lRename this field "FundingWithBank_PricingCommission" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ“¨Şıÿÿÿÿ
+ƒ	java:S116~"nRename this field "FundingWithBank_RelationshipRemarks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‚ìà
+u	java:S116‚"_Rename this field "FundingWithBank_Save" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ğ×“
+|	java:S116ˆ"gRename this field "FundingWithBank_AddDetailSec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¤Â)
+‚	java:S116Œ"gRename this field "FundingWithBank_AccountTitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡µúÙşÿÿÿÿ
+€	java:S116"jRename this field "FundingWithBank_AccountNatureDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ´Ÿ’
+‰	java:S116”"nRename this field "FundingWithBank_AccountNatureSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î­Úøúÿÿÿÿ
+z	java:S116˜"dRename this field "FundingWithBank_AccountNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä²†Ğ
+~	java:S116œ"cRename this field "FundingWithBank_BranchDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ ££üÿÿÿÿ
+‚	java:S116 "gRename this field "FundingWithBank_BranchSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é°ó‡ûÿÿÿÿ
+‰	java:S116¤"nRename this field "FundingWithBank_AccountOpenedDateDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›°Ø…şÿÿÿÿ
+	java:S116¨"rRename this field "FundingWithBank_AccountOpenedDateSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª ´úıÿÿÿÿ
+†	java:S116¬"kRename this field "FundingWithBank_AccountBalDateDd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë–íûıÿÿÿÿ
+…	java:S116°"oRename this field "FundingWithBank_AccountBalDateSelect" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¯ğ¸
+„	java:S116µ"iRename this field "FundingWithBank_CurrentBalance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·©ûàûÿÿÿÿ
+x	java:S116º"bRename this field "FundingWithBank_SaveSec" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µäôå
+7
+java:S1170"!Make this final field static too.(¿à³™
+7
+java:S1170"!Make this final field static too.(§½ë
+<
+java:S1170"!Make this final field static too.(ş÷‰Îşÿÿÿÿ
+6
+java:S1170"!Make this final field static too.(­”C
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÇ¼ıÿÿÿÿ

@@ -1,0 +1,11 @@
+
+„	java:S116"cRename this field "obligor_FinancialSummary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àı›Ìûÿÿÿÿ8æ‚–ø»/
+Š	java:S116"nRename this field "FinancialSummary_LinkageRatioTotalA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÁÍØ8öó¬ø»/
+‹	java:S116"oRename this field "FinancialSummary_LinkageRatioFundedA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ™Œí8ƒ¸­ø»/
+	java:S116"oRename this field "FinancialSummary_LinkageRatioFundedB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÃÈïûÿÿÿÿ8ÆÎ­ø»/
+Š	java:S116!"nRename this field "FinancialSummary_LinkageRatioTotalB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂŞé‡8­¶®ø»/
+	java:S116%"qRename this field "FinancialSummary_CapitalMarketExposure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÒ8—„±ø»/
+	java:S116)"`Rename this field "FinancialSummary_Save" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ğ½ÿÿÿÿÿ8€æÇø»/
+C
+java:S1170"!Make this final field static too.(´Öèşÿÿÿÿ8µÕø»/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÇ¼ıÿÿÿÿ
