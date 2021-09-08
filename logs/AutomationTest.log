@@ -1,0 +1,52 @@
+[INFO ] 2021-09-08 19:02:32.587 [main] BaseTestClass - Browser Navigated To :http://localhost:4200/riskNucleus/login
+[INFO ] 2021-09-08 19:02:32.705 [main] BaseTestClass - Username Entered :admin
+[INFO ] 2021-09-08 19:02:32.767 [main] BaseTestClass - Password Entered :123
+[INFO ] 2021-09-08 19:02:34.837 [main] BaseTestClass - Submit button Pressed
+[INFO ] 2021-09-08 19:02:36.808 [main] BaseTestClass - Waiting For Page To Load
+[INFO ] 2021-09-08 19:02:39.303 [main] BaseTestClass - Obligor Menu Clicked
+[INFO ] 2021-09-08 19:02:41.958 [main] BaseTestClass - Waiting for page to load
+[INFO ] 2021-09-08 19:02:42.090 [main] BaseTestClass - Add Button pressed in obligor
+[INFO ] 2021-09-08 19:02:45.295 [main] BaseTestClass - Waiting for page to load
+[INFO ] 2021-09-08 19:02:45.639 [main] BaseTestClass - BR CODE VALUE: AutomatedCustomer92
+[INFO ] 2021-09-08 19:02:45.875 [main] BaseTestClass - Title Added VALUE: AutomatedCustomer92
+[INFO ] 2021-09-08 19:02:46.149 [main] BaseTestClass - Exisiting Customer is selected
+[INFO ] 2021-09-08 19:02:46.207 [main] BaseTestClass - CIF value added: 5
+[INFO ] 2021-09-08 19:02:48.124 [main] BaseTestClass - Initiating Unit Value is select
+[INFO ] 2021-09-08 19:02:50.536 [main] BaseTestClass - Branch Value is select
+[INFO ] 2021-09-08 19:02:52.796 [main] BaseTestClass - Obligor group value is select
+[INFO ] 2021-09-08 19:02:55.216 [main] BaseTestClass - Cutomer Type is select
+[INFO ] 2021-09-08 19:02:57.467 [main] BaseTestClass - Legal Status is select
+[INFO ] 2021-09-08 19:02:57.702 [main] BaseTestClass - Entered Reffering Officer: AutomatedOfficer
+[INFO ] 2021-09-08 19:02:57.847 [main] BaseTestClass - Entered AccountNo: 12356789
+[INFO ] 2021-09-08 19:02:58.188 [main] BaseTestClass - Account Strategy Value is Selected
+[INFO ] 2021-09-08 19:02:58.418 [main] BaseTestClass - ID Type Value is Selected
+[INFO ] 2021-09-08 19:02:58.608 [main] BaseTestClass - Entered Id Value: 4220185595633
+[INFO ] 2021-09-08 19:02:58.789 [main] BaseTestClass - Entered Family Association Value: AutomatedTesting
+[INFO ] 2021-09-08 19:02:59.213 [main] BaseTestClass - Save Button is pressed
+[INFO ] 2021-09-08 19:03:04.215 [main] BaseTestClass - Additional Information Section is Clicked
+[INFO ] 2021-09-08 19:03:04.445 [main] BaseTestClass - Waiting for page to load
+[INFO ] 2021-09-08 19:03:05.273 [main] BaseTestClass - Large Exposure is Select from DropDown
+[INFO ] 2021-09-08 19:03:05.593 [main] BaseTestClass - Large Exposure Text is entered
+[INFO ] 2021-09-08 19:03:05.709 [main] BaseTestClass - Politically Exposed is Select from DropDown
+[INFO ] 2021-09-08 19:03:06.076 [main] BaseTestClass - Politically Exposed Text is entered
+[INFO ] 2021-09-08 19:03:06.181 [main] BaseTestClass - Politically Exposed upload icon is entered
+[INFO ] 2021-09-08 19:03:11.154 [main] BaseTestClass - Politically Exposed upload Successfully Done
+[INFO ] 2021-09-08 19:03:11.742 [main] BaseTestClass - Customer On Nab list Drop Down Select 
+[INFO ] 2021-09-08 19:03:12.155 [main] BaseTestClass - Customer On Nab list text entered 
+[INFO ] 2021-09-08 19:03:16.105 [main] BaseTestClass - Customer On Nab list upload Success 
+[INFO ] 2021-09-08 19:03:16.657 [main] BaseTestClass - Aggregated Expo Drop Down Select 
+[INFO ] 2021-09-08 19:03:16.859 [main] BaseTestClass - Aggregated Expo text entered 
+[INFO ] 2021-09-08 19:03:20.679 [main] BaseTestClass - Aggregated Expo upload Success 
+[INFO ] 2021-09-08 19:03:21.221 [main] BaseTestClass - Related Party Drop Down Select 
+[INFO ] 2021-09-08 19:03:21.443 [main] BaseTestClass - Related Party text entered 
+[INFO ] 2021-09-08 19:03:25.306 [main] BaseTestClass - Related Party upload Success 
+[INFO ] 2021-09-08 19:03:25.846 [main] BaseTestClass - eCIB Drop Down Select 
+[INFO ] 2021-09-08 19:03:26.063 [main] BaseTestClass - eCIB text entered 
+[INFO ] 2021-09-08 19:03:29.915 [main] BaseTestClass - eCIB upload Success 
+[INFO ] 2021-09-08 19:03:30.458 [main] BaseTestClass - Group eCIB Drop Down Select 
+[INFO ] 2021-09-08 19:03:30.673 [main] BaseTestClass - Group eCIB text entered 
+[INFO ] 2021-09-08 19:03:34.518 [main] BaseTestClass - Group eCIB upload Success 
+[INFO ] 2021-09-08 19:03:35.083 [main] BaseTestClass - Customer Default Drop Down Select 
+[INFO ] 2021-09-08 19:03:43.927 [main] BaseTestClass - Customer Default upload Success 
+[INFO ] 2021-09-08 19:03:45.918 [main] BaseTestClass - Additional Information Section is Clicked
+[INFO ] 2021-09-08 19:03:46.136 [main] BaseTestClass - Waiting for page to load
